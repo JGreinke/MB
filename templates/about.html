@@ -1,0 +1,21 @@
+{%extends 'base.html'%}
+{%load static%}
+{%block title%} About Me {%endblock title%}
+{%block content%}
+    <h1>About the author</h1>
+    <div class="about-me-section">
+        <div class="about-me-writing">
+            <p class="about-me">Hi and welcome to my first message board!</p>
+            <span></span>
+            <p class="about-me">
+                My name is Jasmine Greinke and I am new to webdesign. I love traveling, taking photos, and relaxing at home.
+            </p> 
+            <span></span>
+            <p class="about-me">I hope you enjoy this website and the posts created. If there is anything you would like to work on in the future, feel free to email me at : greinkejs1069@marybaldwin.edu </p>
+        </div>
+        
+        <img src="{% static 'img/AboutMe.jpeg'%}">
+    </div>
+    
+
+{%endblock content%}
