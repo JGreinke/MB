@@ -1,0 +1,12 @@
+# Mini challenge #1
+
+1. Create a new virtual environment.
+2. Activate it.
+3. Install django.
+4. Use the django-admin CLI to create a new django project.
+    4.1. Make sure you use the containing folder for your project folder ("mb" in my case).
+5. Create a new app called "pages".
+6. Install that app.
+7. Create a new template view for a home page.
+8. Run the default migrations.
+9. Run your new django app, displaying your updated home page.

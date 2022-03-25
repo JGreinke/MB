@@ -1,0 +1,465 @@
+ 77  python3 -m pip
+   78  python3 -m pip --version
+   79  python3 -m venv --version
+   80  python3 -m pip install virtualenv
+   81  python3 -m venv venv
+   82  python3 -m venv venv
+   83  python3 source venv/bin/activate
+   84  source venv/bin/activate
+   85  python3 -m pip install flask
+   86  python3 server.py
+   87  python3 server.py
+   88  python3 server.py
+   89  python3 server.py
+   90  python3 server.py
+   91  python3 server.py
+   92  python3 test.py
+   93  python3 test.py
+   94  python3 test.py
+   95  python3 test.py
+   96  python3 test.py
+   97  python3 test.py
+   98  python3 server.py
+   99  source "/Users/jasminegreinke/Desktop/Cohort 25/FSDI 108/store_backend/venv/bin/activate"
+  100  source venv/bin/activate
+  101  python3 server.py
+  102  source "/Users/jasminegreinke/Desktop/Cohort 25/FSDI 108/store_backend/venv/bin/activate"
+  103  "/Users/jasminegreinke/Desktop/Cohort 25/FSDI 108/store_backend/venv/bin/python" -m pip install -U autopep8
+  104  python3 server.py
+  105  python3 server.py
+  106  python3 server.py
+  107  python3 server.py
+  108  python3 server.py
+  109  python3 server.py
+  110  python3 server.py
+  111  python3 server.py
+  112  python3 server.py
+  113  python3 server.py
+  114  python3 server.py
+  115  python3 server.py
+  116  python3 server.py
+  117  python3 server.py
+  118  python3 server.py
+  119  python3 server.py
+  120  python3 server.py
+  121  python3 server.py
+  122  python3 test.py
+  123  python3 test.py
+  124  deactivate
+  125  git init
+  126  git add .
+  127  git reset
+  128  git add .
+  129  git commit -m "FSDI Class 3"
+  130  git remote add origin https://github.com/jazshon/FSDI108_storebackend.git
+  131  git push -u origin master
+  132  activate
+  133  source venv/bin/activate
+  134  python3 server.py
+  135  python3 server.py
+  136  python3 server.py
+  137  python3 server.py
+  138  python3 server.py
+  139  python3 server.py
+  140  python3 server.py
+  141  python3 server.py
+  142  python3 server.py
+  143  python3 server.py
+  144  python3 server.py
+  145  python3 server.py
+  146  python3 server.py
+  147  python3 server.py
+  148  python3 server.py
+  149  deactivate
+  150  git add .
+  151  git commit -m "FSDI 108 #4"
+  152  git push
+  153  source venv/bin/activate
+  154  python3 server.py 
+  155  python3 server.py 
+  156  python3 server.py 
+  157  python3 server.py 
+  158  deactivate
+  159  git add .
+  160  git commit -m "Competency Report"
+  161  git push
+  162  cd /Users/jasminegreinke/Desktop/Cohort\ 25/FSDI\ 107/store 
+  163  npm start
+  164  npm install react-router-dom
+  165  npm start
+  166  npm start
+  167  npm stop
+  168  npm start
+  169  npm stop
+  170  npm start
+  171  git add
+  172  git add .
+  173  git push
+  174  git commit -m "FSDI 109 #3"
+  175  git push
+  176  npm start
+  177  npm strat
+  178  npm start
+  179  npm start
+  180  npm start
+  181  npm install -s axios
+  182  npm start
+  183  npm start
+  184  python3 server.py
+  185  clean
+  186  code .
+  187  python3 server.py
+  188  npm start
+  189  code .
+  190  source venv/bin/activate
+  191  python3 server.py
+  192  python3 -m pip install flask-cors
+  193  python3 server.py
+  194  python3 server.py
+  195  python3 server.py
+  196  source venv/bin/activate
+  197  python3 server.oy
+  198  python3 server.py
+  199  python3 -m pip install flask-pymongo
+  200  python -m pip install "pymongo[srv]"3
+  201  python3 -m pip install "pymongo[srv]"
+  202  python3 -m pip install certifi
+  203  python3 server.py
+  204  python3 server.py
+  205  python3 server.py
+  206  python3 server.py
+  207  python3 server.py
+  208  python3 server.py
+  209  npm starg
+  210  npm start
+  211  source venv/bin/activate
+  212  python3 server.py
+  213  python3 server.py
+  214  python3 server.py
+  215  deactivate
+  216  git push .
+  217  git add .
+  218  git commit -m "Competency Report Update"
+  219  npm start
+  220  source venv/bin/activate
+  221  python3 server.py
+  222  deactivate
+  223  npm start
+  224  git push .
+  225  git add
+  226  git add .
+  227  git commit -m "Competency Report Update"
+  228  git add .
+  229  git push .
+  230  git commit -m "Comp. Report Update"
+  231  git push .
+  232  git status
+  233  git push
+  234  npm start
+  235  source venv/bin/activate
+  236  python3 server.py
+  237  npm start
+  238  mkdir -p ~/Code/SDGKU
+  239  cd ~/Code/SDGKU
+  240  ls
+  241  mkdir FSDI_111
+  242  cd FSDI_111
+  243  python3 -m venv venv
+  244  source venv/bin/activate
+  245  pip3 install flask
+  246  python3 -V
+  247  pip3 -V
+  248  pip3 freeze > requirements.txt
+  249  mkdir app
+  250  touch app/__init__.py
+  251  touch app/routes.py
+  252  code .
+  253  flask
+  254  export FLASK_APP=app/routes.py
+  255  FLASK_ENV=development
+  256  flask run
+  257  flask run
+  258  flask run
+  259  export FLASK_APP=routes.py
+  260  export FLASK_ENV=development
+  261  flask run
+  262  deactivate
+  263  source /Users/jasminegreinke/Code/SDGKU/FSDI_111/venv/bin/activate
+  264  python3 routes.py
+  265  git branch -M main
+  266  git remote add origin https://github.com/jazshon/FSDI-111.git
+  267  git branch -M main
+  268  git remote add origin https://github.com/jazshon/FSDI-111.git
+  269  git push -u origin main
+  270  ssh-keygen
+  271  cat /Users/jasminegreinke/.ssh/id_rsa.pub
+  272  git push -u origin main
+  273  source /Users/jasminegreinke/Code/SDGKU/user_crud/venv/bin/activate
+  274  /Users/jasminegreinke/Code/SDGKU/user_crud/venv/bin/python
+  275  ubuntu
+  276  wsl
+  277  cd /Users/jasminegreinke/Code/SDGKU/FSDI_111/ 
+  278  mkdir mynewrepo
+  279  cd mynewrepo
+  280  touch app/__init__.py
+  281  touch run.py
+  282  touch README.md
+  283  python3 -m venv venv
+  284  source venv/bin/activate
+  285  code .
+  286  cd app
+  287  cd /Users/jasminegreinke/Code/SDGKU/FSDI_111/
+  288  cd app
+  289  git status
+  290  git init
+  291  ls
+  292  ls -la
+  293  git status
+  294  git add -A
+  295  git status
+  296  git commit -m "Created empty files"
+  297  cd FSDI
+  298  cd /Users/jasminegreinke/Code/SDGKU/FSDI_111/
+  299  sqlite3 --versioin
+  300  sqlite3 --version
+  301  sqlite3 sandbox.db
+  302  deactivate
+  303  cd ..
+  304  mkdir user_crud
+  305  cd user_crud
+  306  python3 -m venv venv
+  307  source venv/bin/activate
+  308  pip3 install flask
+  309  mkdir app
+  310  touch app/__init__.py
+  311  touch app/routes.py
+  312  pip3 freeze > requirements.txt
+  313  touch .gitignore
+  314  code .
+  315  sqlite3 user.db
+  316  export FLASK_APP=app/routes.py
+  317  export FLASK_ENV=development
+  318  flask run
+  319  source /Users/jasminegreinke/Code/SDGKU/FSDI_111/venv/bin/activate
+  320  git config --list
+  321  ls -a
+  322  git init
+  323  ls -a
+  324  git add README.md
+  325  echo "# FSDI-111" >> README.md
+  326  git init
+  327  git add README.md
+  328  git commit -m "first commit"
+  329  git branch -M main
+  330  git remote add origin git@github.com:jazshon/FSDI-111.git
+  331  git push -u origin main
+  332  git add .
+  333  git commit -m "second commit"
+  334  git push .
+  335  git init
+  336  git add .
+  337  git commit -m "second commit"
+  338  git push 
+  339  source venv/bin/activate
+  340  python3 server.py
+  341  python3 server.py
+  342  deactivate
+  343  git add .
+  344  git commit -m "Comp Report 
+  345  git commit -m "Comp Report Final Update - Backend"
+  346  git push
+  347  npm start
+  348  npm start
+  349  git add .
+  350  git commit -m "Comp Report Final Update"
+  351  git push
+  352  cd /Users/jasminegreinke/Code/SDGKU/user_crud 
+  353  source venv/bin/activate
+  354  ls
+  355  sh run_dev.dev
+  356  sh run_dev.sh
+  357  ls -al
+  358  ls -al run_dev.sh
+  359  sh run_dev.sh
+  360  sh run_dev.sh
+  361  sh run_dev.sh
+  362  sh dev_dev.sh
+  363  source /Users/jasminegreinke/Code/SDGKU/user_crud/venv/bin/activate
+  364  pip3 install requests
+  365  python3 tools/create_user.py
+  366  python3 tools/create_user.py
+  367  python3 tools/create_user.py
+  368  python3 tools/create_user.py
+  369  sh run_dev.sh
+  370  ls tools
+  371  source venv/bin/activate
+  372  sh run_dev.sh
+  373  python3 user.py
+  374  python3 routes.py
+  375  cd app
+  376  python3 routes.py
+  377  flask
+  378  flask --version
+  379  pip3 install flask
+  380  sh run_dev.sh
+  381  cd ..
+  382  sh run_dev.sh
+  383  sh run_dev.sh
+  384  sh run_dev.sh
+  385  pip3 install flask
+  386  sh run_dev.sh
+  387  sh run_dev.sh
+  388  sh run_dev.sh
+  389  sh run_dev.sh
+  390  sh run_dev.sh
+  391  sh run_dev.sh
+  392  flask run --help
+  393  source venv/bin/activate
+  394  sh run_dev.sh
+  395  pip3 install flask
+  396  sh run_dev.sh
+  397  sh run_dev.sh
+  398  flask routes
+  399  export FLASK_APP=app/routes.py
+  400  export FLASK_ENV=development
+  401  flask routes
+  402  export PYTHONPATH=$PYTHONPATH:$(pwd)
+  403  flask routes
+  404  ls
+  405  ls app
+  406  ls app
+  407  flask routes
+  408  flask routes
+  409  flask routes
+  410  flask routes
+  411  sh run_dev.sh
+  412  sh run_dev.sh
+  413  ls
+  414  mkdir backend
+  415  mv requirements.txt backend
+  416  mv setup.sql backend
+  417  mv user.db backend
+  418  mc tools backend
+  419  mv tools backend
+  420  ls
+  421  mkdir frontend
+  422  cd frontend
+  423  mkdir app
+  424  touch app/__init__.py
+  425  touch app/routes.py
+  426  mkdir app/templates
+  427  touch app/template/base.html
+  428  touch app/templates/base.html
+  429  touch app/templates/index.html
+  430  source /Users/jasminegreinke/Code/SDGKU/user_crud/venv/bin/activate
+  431  source /Users/jasminegreinke/Code/SDGKU/user_crud/venv/bin/activate
+  432  cd ..
+  433  sh run_dev.sh
+  434  sh run_backend_dev.sh
+  435  sh run_backend_dev.sh
+  436  sh run_backend_dev.sh
+  437  source /Users/jasminegreinke/Code/SDGKU/user_crud/venv/bin/activate
+  438  sh run_frontend_dev.sh
+  439  sh run_frontend_dev.sh
+  440  cd/Users/jasminegreinke/Code/SDGKU/user_crud 
+  441  source venv/bin/activate
+  442  source bin/venv/activate
+  443  cd Code
+  444  cd SDKU
+  445  cd user_crud
+  446  cd SDKU
+  447  cd SDGKU
+  448  cd user_crud
+  449  source venv/bin/activate
+  450  python3 routes.py
+  451  python3 user.py
+  452  sqlite3 user.db
+  453  sqlite3 user.db
+  454  sqlite3 user.db
+  455  sh run_frontend_dev.sh
+  456  clear
+  457  cd ..
+  458  mkdir FSDI_112
+  459  deactivate
+  460  cd FSDI_112
+  461  python3 -m venv venv
+  462  source venv/bin/activate
+  463  pip2 install django
+  464  pip3 install django
+  465  django-admin
+  466  django-admin startproject config .
+  467  python3 manage.py
+  468  Code .
+  469  code .
+  470  python3 manage.py runserver
+  471  python3 manage.py startapp pages
+  472  python3 manage.py startapp pages
+  473  python3 manage.py runserver
+  474  sh run_frontend_dev.sh
+  475  sh run_backend_dev.sh
+  476  source venv/bin/activate
+  477  sh run_frontend_dev.sh
+  478  flask run
+  479  sh run_backend_dev.sh
+  480  sh run_frontend_dev.sh
+  481  source venv/bin/activate
+  482  sh run_frontend_dev.sh
+  483  deactivate
+  484  git add .
+  485  echo "# USER_CRUD" >> README.md
+  486  git init
+  487  git add README.md
+  488  git commit -m "first commit"
+  489  git branch -M main
+  490  git remote add origin git@github.com:jazshon/USER_CRUD.git
+  491  git push -u origin main
+  492  git add .
+  493  git commit -m "Competency Report"
+  494  git push
+  495  cd Code
+  496  cd SDGKU
+  497  cd USER_CRUD
+  498  sh run_backend_dev.sh
+  499  cd Code
+  500  cd SDGKU
+  501  cd FSDI_112
+  502  python3 manage.py test
+  503  source venv/bin/activate
+  504  python3 manage.py test
+  505  python3 manage.py test
+  506  python manage.py test
+  507  python manage.py test
+  508  python manage.py createsuperuser
+  509  python manage.py migrate
+  510  python manage.py createsuperuser
+  511  python manage.py runserver
+  512  mkdir static
+  513  mkdir static/css
+  514  mkdir static/js
+  515  mkdir static/img
+  516  python manage.py runserver
+  517  python manage.py collectstatic
+  518  git status
+  519  git init
+  520  git add config
+  521  git status
+  522  python manage.py runserver
+  523  git commit -m "first commit"
+  524  git branch -M main
+  525  git remote add origin git@github.com:jazshon/FSDI-112.git
+  526  git push -u origin main
+  527  git push
+  528  deactivate
+  529  cd ..
+  530  mkdir mini_challenge_1
+  531  cd mini_challenge_1
+  532  python3 -m venv venv
+  533  source venv/bin/activate
+  534  pip3 install flask
+  535  python3 -m pip install django
+  536  pip3 remove flask
+  537  pip3 uninstall flask
+  538  startproject config .
+  539  django-admin
+  540  django-admin startproject config .
+  541  history

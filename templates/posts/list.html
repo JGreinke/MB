@@ -1,0 +1,23 @@
+{% extends 'base.html'%}
+
+{%block title%} Posts {%endblock title %}
+
+{%block content%}
+<h1>Posts</h1>
+{% for post in post_list%} 
+
+<div class="row row-cols-1 row-cols-md-3 g-4">
+    <div class="col" style="padding: 10px; margin-left: 33%;">
+      <div class="card" style="box-shadow: 5px 5px 15px 0px #00000075; border-radius: 0px;">
+        <div class="card-body text-white bg-dark mb-3">
+          <a class="card-title" style="text-transform: uppercase; text-decoration: none; color: white;" href="{% url 'post_detail' post.id%}">{{post.title}}</a>
+          <p class="card-text" style="font-size: 12px;">{{post.text | truncatechars:512}}</p>
+        </div>
+      </div>
+    </div>
+</div>
+
+       
+{%endfor %}
+
+{%endblock content%}
